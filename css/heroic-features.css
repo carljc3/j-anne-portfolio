@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-image: url(../css/blackLines.jpg)
+}
+img.align-left {
+float: left;
+margin-left: 10px;
+padding-right: 25px;
+}
+
+img {
+  max-height: 300px;
+  max-width: 250px;
+}
+
+#floated {
+  float: left;
+  width: 150px;
+
+}
+
+.form-control {
+  width: 40%;
+  height: 40%;
+  align-content: space-around;
+  justify-content: space-around;
+
+}
+
+.btn-primary {
+ background-color: lightpink;
+ border-color: black;
+ text-decoration-color: black
+
+
+}
+
+.card-text {
+ text-align: center;
+
+}
+
+.card-title {
+  text-align: center;
+  text-emphasis: bold;
+}
+
+.footer {
+  position: absolute;
+}
+
